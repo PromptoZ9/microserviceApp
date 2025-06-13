@@ -1,0 +1,201 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Emily Guskin, Scott Clement",
+            "title": "Public sours on Musk\u2019s role, is skeptical that government is cutting waste - The Washington Post",
+            "description": "A Washington Post-ABC News-Ipsos poll finding negative reactions to some cuts made by Musks\u2019s U.S. DOGE service.",
+            "url": "https://www.washingtonpost.com/politics/2025/04/28/elon-musk-approval-poll/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B2IKQEB4KVVIOESVC2YAFERIPE_size-normalized.jpg&w=1440",
+            "publishedAt": "2025-04-28T11:32:19Z",
+            "content": "Americans are increasingly critical of Elon Musks role in the Trump administration, with a Washington Post-ABC News-Ipsos poll finding negative reactions to some cuts made by his U.S. DOGE Service an\u2026 [+2759 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Jon Gambrell",
+            "title": "Houthi rebels say alleged US airstrike that hit Yemen prison holding African migrants kills 68 - AP News",
+            "description": "Yemen\u2019s Houthi rebels say an alleged U.S. airstrike that hit a prison holding African migrants killed at least 68 people. That\u2019s according to the Houthis\u2019 Civil Defense organization on Monday, which said 47 others were wounded. There was no immediate independ\u2026",
+            "url": "https://apnews.com/article/yemen-houthis-rebels-us-airstrikes-israel-hamas-gaza-287d8e969bc33fbe34d33bba32f4ad80",
+            "urlToImage": "https://dims.apnews.com/dims4/default/cb4da0c/2147483647/strip/true/crop/1200x675+0+59/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2F3e%2F24b447739d4dc847ce185d31fd14%2F2019fecef2e74f339b016cbb3cf80f01",
+            "publishedAt": "2025-04-28T11:29:00Z",
+            "content": "DUBAI, United Arab Emirates (AP) Yemens Houthi rebels on Monday alleged a U.S. airstrike hit a prison holding African migrants, killing at least 68 people and wounding 47 others. The U.S. military di\u2026 [+6200 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Laura Millan, Macarena Munoz Montijano, Thomas Gualtieri, Daniel Basteiro",
+            "title": "Spain and Portugal Hit by Widespread Power Blackouts - Bloomberg.com",
+            "description": "Most of Spain and all of Portugal were hit by a major blackout that impacted public transport, airports and phone service, leaving authorities scrambling to find the causes for one of the worst outages in Europe in years.",
+            "url": "https://www.bloomberg.com/news/articles/2025-04-28/most-of-spain-hit-by-electricity-outage-for-unknown-reason",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixWPMSB2cGGw/v0/1200x782.jpg",
+            "publishedAt": "2025-04-28T11:02:10Z",
+            "content": "Most of Spain and all of Portugal were hit by a major blackout that impacted public transport, airports and phone service, leaving authorities scrambling to find the causes for one of the worst outag\u2026 [+278 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Dan Goodin",
+            "title": "iOS and Android juice jacking defenses have been trivial to bypass for years - Ars Technica",
+            "description": "New ChoiceJacking attack allows malicious chargers to steal data from phones.",
+            "url": "https://arstechnica.com/security/2025/04/ios-and-android-juice-jacking-defenses-have-been-trivial-to-bypass-for-years/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/04/scary-usb-juice-jacking-whooooo-1152x648.jpg",
+            "publishedAt": "2025-04-28T11:00:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Helen Regan, Michael Rios, Darya Tarasova, Tim Lister",
+            "title": "Putin thanks North Korea for help in Kursk, as Germany criticizes US plan for Ukrainian concessions - CNN",
+            "description": "Russia\u2019s President Vladimir Putin has for the first time acknowledged that North Korean soldiers took part in the fighting to recover Russian territory after Ukraine\u2019s incursion into the Kursk region last year.",
+            "url": "https://www.cnn.com/2025/04/28/europe/ukraine-crimea-peace-plan-north-korea-russia-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25105543425918.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-04-28T10:54:00Z",
+            "content": "Russias President Vladimir Putin has for the first time acknowledged that North Korean soldiers took part in the fighting to recover Russian territory after Ukraines incursion into the Kursk region l\u2026 [+6008 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Pia Singh",
+            "title": "Stock futures are slightly negative as investors brace for a busy earnings week: Live updates - CNBC",
+            "description": "Investors are looking to the busiest period of the first-quarter earnings season, which will see more than 180 S&P 500 companies set to report results.",
+            "url": "https://www.cnbc.com/2025/04/27/stock-futures-slip-ahead-of-busy-earnings-week-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108134792-1745332059129-gettyimages-2211439541-mms18316_cd0p3xp9.jpeg?v=1745790915&w=1920&h=1080",
+            "publishedAt": "2025-04-28T10:39:00Z",
+            "content": "Stock futures nudged lower Monday morning ahead of a packed week for earnings and economic data.\r\nFutures tied to the Dow Jones Industrial Average fell 59 points. S&amp;P 500 futures and Nasdaq 100 f\u2026 [+1817 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Mario Parker",
+            "title": "Trump\u2019s Polls Decline Near 100-Day Mark, Raising Tax-Plan Stakes - Bloomberg.com",
+            "description": "Voter discontent with President Donald Trump\u2019s economic stewardship is sinking his popularity as he approaches the symbolic 100-day mark of his second term, ratcheting up pressure on congressional Republicans to pass his tax plan.",
+            "url": "https://www.bloomberg.com/news/articles/2025-04-27/trump-s-polls-decline-near-100-day-mark-raising-tax-plan-stakes",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPUuf1uGK5pU/v1/1200x800.jpg",
+            "publishedAt": "2025-04-28T10:38:13Z",
+            "content": "Voter discontent with President Donald Trumps economic stewardship is sinking his popularity as he approaches the symbolic 100-day mark of his second term, ratcheting up pressure on congressional Rep\u2026 [+360 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Naftali Bendavid",
+            "title": "Trump claims mantle of FDR\u2019s first 100 days, but differences are stark - The Washington Post",
+            "description": "Roosevelt\u2019s opening act yielded major new laws, while Trump governs largely by executive orders that can be swiftly challenged in court.",
+            "url": "https://www.washingtonpost.com/politics/2025/04/28/trump-fdr-100-days/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V4H7PFUHQEI6THLT4K5GXPY3TM.jpg&w=1440",
+            "publishedAt": "2025-04-28T10:31:31Z",
+            "content": "Since Franklin D. Roosevelts earthshaking first 100 days in office, no president has matched the sheer drama and disruption of that 15-week sprint in 1933, which rewrote the relationship between Amer\u2026 [+10338 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "What the world makes of Canada's election - BBC",
+            "description": "Assassinations, spies and taxes... as Canadians head to the polls, several other countries are closely watching.",
+            "url": "https://www.bbc.com/news/articles/c62gryz170vo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05dd/live/7dcc0b10-2416-11f0-9060-674316cb3a1f.jpg",
+            "publishedAt": "2025-04-28T10:02:19Z",
+            "content": "Canadians are heading to the polls to decide on their next government at a pivotal moment in their relations with the US.\r\nThe country faces a huge economic challenge in the shape of Trump tariffs on\u2026 [+7485 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Illia Novikov",
+            "title": "Russia and Ukraine trade long-range strikes as peace talks enter \u2018very critical\u2019 week - AP News",
+            "description": "The Kremlin has declared a full ceasefire in Ukraine on May 8-10 as Russia celebrates Victory Day over Nazi Germany. Russian President Vladimir Putin has ordered the full cessation of hostilities on \u201chumanitarian grounds\u201d to mark the day on May 9, the Kremlin\u2026",
+            "url": "https://apnews.com/article/russia-ukraine-war-peace-trump-844dc8747a63ef6921f0b1f0e3348ccd",
+            "urlToImage": "https://dims.apnews.com/dims4/default/33920e1/2147483647/strip/true/crop/2000x1125+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2F13%2F2ecfaeea393986a29a68344ebb1e%2F1249dd5e1d18441b9fc19cdc815222ae",
+            "publishedAt": "2025-04-28T09:53:00Z",
+            "content": "KYIV, Ukraine (AP) Russias President Vladimir Putin on Monday declared a three-day ceasefire in Ukraine on May 8-10 to mark the World War II Victory Day, as U.S. President Donald Trumps administratio\u2026 [+6223 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Sahil Kapur",
+            "title": "5 policy issues Republicans are clashing over in a massive bill for Trump's agenda - NBC News",
+            "description": "There are major unresolved questions over Medicaid spending, tax cuts and clean energy rollbacks as Republican lawmakers begin crafting the legislation.",
+            "url": "https://www.nbcnews.com/politics/congress/5-policy-issues-republicans-are-clashing-massive-bill-trumps-agenda-rcna202364",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250425-mike-johnson-ew-437p-806fab.jpg",
+            "publishedAt": "2025-04-28T09:00:00Z",
+            "content": "WASHINGTON Congress returns from recess on Monday for a four-week dash to Memorial Day, during which Republican leaders hope to resolve critical questions about their sweeping bill to pass President \u2026 [+7134 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Juliana Kaplan, Reed Alexander, Dakin Campbell",
+            "title": "The future of America's biggest safety net is in the hands of a career bureaucrat and a hard-charging finance titan - Business Insider",
+            "description": "Acting commissioner Leland Dudek helms the nearly 60,000-person federal agency. Frank Bisignano, a former JPMorgan Chase and Citigroup executive, waits in the wings.",
+            "url": "https://www.businessinsider.com/social-security-administration-leland-dudek-frank-bisignano-transition-2024-4",
+            "urlToImage": "https://i.insider.com/6807c3b73fe8d3928363b64d?width=1200&format=jpeg",
+            "publishedAt": "2025-04-28T09:00:00Z",
+            "content": "The Social Security Administration faces a delicate moment. Its future teeters between a career bureaucrat and a former Citigroup and JPMorgan Chase executive who may bring order or further tumult.\r\n\u2026 [+11380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Breakthrough Discovery: A Massive Glowing Hydrogen Cloud Found Near Our Solar System - SciTechDaily",
+            "description": "Scientists have uncovered a colossal, previously hidden hydrogen cloud, named Eos, just 300 light-years from Earth \u2014 the closest such discovery ever. Detected by its faint ultraviolet glow, Eos offers an unprecedented opportunity to study how stars are born. \u2026",
+            "url": "https://scitechdaily.com/breakthrough-discovery-a-massive-glowing-hydrogen-cloud-found-near-our-solar-system/",
+            "urlToImage": "https://scitechdaily.com/images/Eos-Molecular-Hydrogen-Cloud.jpg",
+            "publishedAt": "2025-04-28T08:59:19Z",
+            "content": "Hidden for eons, Eos\u2014a vast hydrogen cloud near Earth\u2014has been revealed through ultraviolet light, potentially revolutionizing how scientists explore the birthplaces of stars. Credit: Thomas M\u00fcller (\u2026 [+8192 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Vanessa Gera",
+            "title": "The Vatican closes the Sistine Chapel to the public and prepares for a papal conclave - AP News",
+            "description": "The Vatican is closing the Sistine Chapel to the public as part of its preparations for the conclave to elect the next pope after the death of Pope Francis. The date for the conclave has not yet been set, but it can only begin after a nine-day period of mourn\u2026",
+            "url": "https://apnews.com/article/vatican-sistine-chapel-conclave-27a32119a225f7aff20cfe3619124b75",
+            "urlToImage": "https://dims.apnews.com/dims4/default/cce4ea5/2147483647/strip/true/crop/2040x1148+0+93/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F55%2F66%2F697c97dc004adeb6d3e16e694409%2F9ae7d857afd742c1a744dec16178b458",
+            "publishedAt": "2025-04-28T07:07:00Z",
+            "content": "VATICAN CITY (AP) Exit tourists. Enter cardinals.\r\nThe Vatican has closed the Sistine Chapel, where cardinals will gather for the conclave to elect the next pope after the death of Pope Francis on Ap\u2026 [+3139 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "SpaceX launches 250th Starlink satellite mission, lands rocket at sea (video, photos) - Space",
+            "description": "Liftoff occurred at 10:09 p.m. ET on Sunday (April 27).",
+            "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-250th-starlink-satellite-mission-lands-rocket-at-sea-photos",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6U68fUY8LSW5KvJnQhX6GC.jpg",
+            "publishedAt": "2025-04-28T05:51:45Z",
+            "content": "SpaceX launched a milestone mission on Sunday night (April 27).\r\nA Falcon 9 rocket carrying 23 of the company's Starlink broadband satellites \u2014 including 13 with direct-to-cell capability \u2014 lifted of\u2026 [+2085 chars]"
+        }
+    ]
+}
